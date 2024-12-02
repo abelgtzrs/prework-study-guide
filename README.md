@@ -24,16 +24,16 @@ The guide is designed to serve as a reference and practice tool, showcasing the 
 
 To use the Prework Study Guide, follow these steps:
 
-- [Clone the Repository]
+- Clone the Repository
 Open your terminal and run the "git clone" command to clone the repository to your local machine.
 
-- [Navigate to the Project Directory]
+- Navigate to the Project Directory
 Change into the project directory using the "cd" command.
 
-- [Open the Project]
+- Open the Project
 Use your preferred code editor to open the project directory. For example, with VS Code.
 
-- [Run the Application]
+- Run the Application
 Open the index.html file in your browser to view the guide.
 
 ## Usage
